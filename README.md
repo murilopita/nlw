@@ -7,7 +7,7 @@ Next Level Week - eSports 2022
 <br>
 
 <p align="justify">
-O Next Level Week é um evento totalmente online, gratuito e com foco na prática promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O evento acontece durante os dias 11 a 18 de setembro de 2022 e é direcionado para aqueles que estão começando em programação e também, para quem já está no mercado de trabalho e quer aprimorar seus conhecimentos em programação.
+O Next Level Week é um evento totalmente online, gratuito e com foco na prática promovido pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. O evento acontece durante os dias 11 a 18 de setembro de 2022 e é direcionado para aqueles que estão começando em programação e também, para quem já está no mercado de trabalho e quer aprimorar seus conhecimentos em programação.
 </p>
 
 <p align="justify">

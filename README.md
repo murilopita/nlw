@@ -1,5 +1,5 @@
 <h1 align="center">
-Next Level Week - eSports 2022
+    NLW eSports - Trilha Explorer
 </h1>
 
 <img src="./readme-assets/nlw-b.png">
@@ -7,16 +7,47 @@ Next Level Week - eSports 2022
 <br>
 
 <p align="justify">
-O Next Level Week é um evento totalmente online, gratuito e com foco na prática promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O evento acontece durante os dias 11 a 18 de setembro de 2022 e é direcionado para aqueles que estão começando em programação e também, para quem já está no mercado de trabalho e quer aprimorar seus conhecimentos em programação.
+    O Next Level Week (NLW) é um evento totalmente online, gratuito e com foco na prática promovido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O evento acontece durante os dias 11 a 18 de setembro de 2022 e é direcionado para aqueles que estão começando em programação e também, para quem já está no mercado de trabalho e quer aprimorar seus conhecimentos em programação.
 </p>
+
+<br>
+
+# Projeto
 
 <p align="justify">
-Durante o evento, eu criei uma página de perfil onde mostra meus jogos favoritos, os streamers e criadores de conteúdo que mais assisto diariamente e também uma lista com as minhas redes sociais.
+    O prjeto consiste numa página de perfil onde mostra listas de coisas que eu gosto como por exemplo: meus jogos favoritos e filmes prediletos. E também uma lista com as minhas redes sociais.
 </p>
 
-<p align="justify">
-No desafio era possível fazermos nossas próprias modificações e deixa-lo com a nossa cara. Então substituí a lista de streamers por uma lista com meus filmes predilétos.
-</p>
+<br>
 
+<h2 align="center">
+    Demonstração
+</h2>
 
+<img src="./readme-assets/nlw-b.png">
 
+Clique [aqui](https://murilopita.github.io/nlw-esports-explorer/) para acessar o site.
+
+<br>
+
+# Aprendizado
+
+- HTML semântico
+- Animation
+- Keyframes
+
+<br>
+
+# Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+<br>
+
+# Contato
+
+Github - [murilopita](https://github.com/murilopita)
+
+Instagram - [m_urilo.jr](https://www.instagram.com/m_urilo.jr/)

@@ -18,9 +18,9 @@ ul{
 /* Background */
 
 body{
-    background-image: url(img/bg2.jpg);
+    background-image: url(img/bg4.jpg);
     background-position: top center;
-    background-size:cover ;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: #121214;
     
@@ -50,7 +50,7 @@ header div{
 
     transition: transform .3s;
 
-    box-shadow: 1px 1px 15px rgba(255, 251, 251, 0.466);
+    box-shadow: 1px 1px 15px rgba(184, 175, 175, 0.199);
 }
 
 header div:hover{
@@ -88,7 +88,7 @@ section div{
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
-    box-shadow: 3px 1px 15px rgba(255, 251, 251, 0.308);
+    box-shadow: 1px 1px 15px rgba(184, 175, 175, 0.199);
 }
 
 #film{

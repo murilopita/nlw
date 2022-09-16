@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="./readme-assets/nlw-b.png">
 
 <br>
@@ -31,6 +32,19 @@ Clique [aqui](https://murilopita.github.io/nlw-esports-explorer/) para acessar o
 <br>
 
 # Tecnologias
+=======
+# NLW - eSports - Trilha Explorer
+
+![Preview](./.github/preview.png)
+
+Projeto construído no evento Next Level Week da Rocketseat.
+
+[Clique aqui para acessar](https://murilopita.github.io/nlw-esports-explorer/)
+
+<br>
+
+## Tecnologias
+>>>>>>> main
 
 - HTML
 - CSS
@@ -38,8 +52,14 @@ Clique [aqui](https://murilopita.github.io/nlw-esports-explorer/) para acessar o
 
 <br>
 
+<<<<<<< HEAD
 # Contato
 
 Github - [murilopita](https://github.com/murilopita)
 
 Instagram - [m_urilo.jr](https://www.instagram.com/m_urilo.jr/)
+=======
+## Contato
+
+GitHub - [murilopita](https://github.com/murilopita)
+>>>>>>> main

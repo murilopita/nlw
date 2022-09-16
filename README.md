@@ -11,7 +11,7 @@
 # Projeto
 
 <p align="justify">
-    O prjeto consiste numa página de perfil onde mostra listas de coisas que eu gosto como por exemplo: meus jogos favoritos e filmes prediletos. E também uma lista com as minhas redes sociais.
+    O projeto consiste numa página de perfil com listas de coisas que eu gosto, como por exemplo: meus jogos favoritos e filmes prediletos. E também, uma lista com as minhas redes sociais.
 </p>
 
 <br>

@@ -1,7 +1,3 @@
-<h1 align="center">
-    NLW eSports - Trilha Explorer
-</h1>
-
 <img src="./readme-assets/nlw-b.png">
 
 <br>
@@ -20,11 +16,7 @@
 
 <br>
 
-<h2 align="center">
-    Demonstração
-</h2>
-
-<img src="./readme-assets/nlw-b.png">
+<img src="./readme-assets/nlw-preview.gif">
 
 Clique [aqui](https://murilopita.github.io/nlw-esports-explorer/) para acessar o site.
 

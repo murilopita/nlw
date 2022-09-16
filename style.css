@@ -18,11 +18,12 @@ ul{
 /* Background */
 
 body{
-    background-image: url(img/bg.jpg);
+    background-image: url(img/bg4.jpg);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: #121214;
+    
 }
 
 body * {
@@ -48,6 +49,8 @@ header div{
     padding: 4px;
 
     transition: transform .3s;
+
+    box-shadow: 1px 1px 15px rgba(184, 175, 175, 0.199);
 }
 
 header div:hover{
@@ -85,6 +88,21 @@ section div{
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
+    box-shadow: 1px 1px 15px rgba(184, 175, 175, 0.199);
+}
+
+#film{
+    color: white;
+    background-image: linear-gradient(90deg, #fccc72 0%, #e74343 50.52%, #5e5ce2 100%);
+    padding-top: 4px;
+    border-radius: 10px;
+}
+
+#social{
+    color: white;
+    background-image: linear-gradient(90deg, #72fcea 0%, #c2adc5 50.52%, #e25ccc 100%);
+    padding-top: 4px;
+    border-radius: 10px;
 }
 
 /* Info Card */
@@ -119,10 +137,9 @@ section ul li:hover{
 
 }
 
-.channel-list img{
-    width: 70px;
-    border-radius: 50%;
-    border: 1px solid #443E54;
+.film-list img{
+    width: 90px;
+    border-radius: 8px;
 }
 
 

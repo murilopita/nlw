@@ -1,4 +1,4 @@
-<img src="./readme-assets/nlw-b.png">
+<img src="./.github/nlw-b.png">
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="./readme-assets/nlw-preview.gif">
+<img src="./.github/nlw-preview.gif">
 
 Clique [aqui](https://murilopita.github.io/nlw-esports-explorer/) para acessar o site.
 
